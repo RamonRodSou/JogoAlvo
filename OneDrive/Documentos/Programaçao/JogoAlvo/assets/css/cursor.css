@@ -1,0 +1,8 @@
+#cursor {
+    width: 30px;
+    height: 30px;
+    background-image: url('../img/mira.webp');
+    background-size: cover;
+    position: absolute;
+    pointer-events: none; /* Isso garante que o cursor não capture eventos de clique. */
+  }
